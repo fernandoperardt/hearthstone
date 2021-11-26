@@ -1,4 +1,6 @@
 package br.com.hearthstone.hearthstone.carta;
 
-public class Carta {
+public enum CartaTipo {
+    MAGIA,
+    CRIATURA
 }
